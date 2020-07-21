@@ -5,7 +5,7 @@ synopsis:            See README for more info
 description:         See README for more info
 homepage:            https://github.com/haskell-servant/servant-uverb
 bug-reports:         https://github.com/haskell-servant/servant-uverb/issues
-license:             BSD3
+license:             BSD-3-Clause
 license-file:        LICENSE
 author:              Servant Contributors
 maintainer:          backend@wire.com
