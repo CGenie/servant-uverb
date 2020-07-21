@@ -24,6 +24,7 @@ import Data.SOP.NS (NS)
 import Data.Typeable (Proxy (Proxy))
 import qualified GHC.Generics as GHC
 import GHC.TypeLits (KnownNat, Nat)
+import Network.HTTP.Types
 import Network.HTTP.Types.Status
 import Servant.API.UVerb.OpenUnion
 
